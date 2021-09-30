@@ -1,3 +1,4 @@
+C++ fundamentals and questions for beginners and intermediates. Raise Genuine PRs only. Your PRs will be accepted, keep patience. Star This Repo. You aren't allowed to Update README.md. Welcoming developers, content writers, and programming enthusiasts.
 ![image](https://user-images.githubusercontent.com/64991656/135403993-8436cfd2-5314-4c03-8509-d33e51c565b2.png)
 
 <h1 align="center"> Hacktoberfest 2021 </h1>
