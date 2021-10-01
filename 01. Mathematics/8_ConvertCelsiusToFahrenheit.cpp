@@ -14,6 +14,8 @@ public:
     double cToF(int C)
     {
         //Your code here
+        return ((C * 9.0 / 5.0) + 32.0);
+        //Using celcius to fahrenheit conversion formula
     }
 };
 
