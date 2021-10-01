@@ -40,7 +40,7 @@ public:
     {
         // code here
         if (n >= 0) {
-           long long int root = sqrt(n);
+           long long root = sqrt(n);
            return (root * root == n);
          }
          // else return 0 if n<0
